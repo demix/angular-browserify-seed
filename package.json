@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "demixcn@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "swig": "~1.3.2",
+    "express": "~3.4.8",
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {
+    "browserify-middleware": "~2.4.0",
+    "grunt": "~0.4.4",
+    "browserify": "~3.38.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-cssmin": "~0.9.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "colors": "~0.6.2",
+    "html-minify": "~0.3.1"
+  }
+}
